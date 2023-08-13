@@ -1,0 +1,10 @@
+ecatappl.c:179:6:PDO_InputMapping	1
+ecatappl.c:190:6:PDO_OutputMapping	1
+ecatappl.c:206:6:ECAT_CheckTimer	4
+ecatappl.c:229:6:HandleBusCycleCalculation	6
+ecatappl.c:280:6:PDI_Isr	14
+ecatappl.c:370:6:Sync0_Isr	19
+ecatappl.c:458:6:Sync1_Isr	4
+ecatappl.c:490:8:MainInit	1
+ecatappl.c:527:6:MainLoop	11
+ecatappl.c:604:6:ECAT_Application	1

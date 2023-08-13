@@ -1,0 +1,10 @@
+../SSC/ecatappl.c:179:6:PDO_InputMapping	8	static
+../SSC/ecatappl.c:190:6:PDO_OutputMapping	8	static
+../SSC/ecatappl.c:206:6:ECAT_CheckTimer	8	static
+../SSC/ecatappl.c:229:6:HandleBusCycleCalculation	24	static
+../SSC/ecatappl.c:280:6:PDI_Isr	16	static
+../SSC/ecatappl.c:370:6:Sync0_Isr	16	static
+../SSC/ecatappl.c:458:6:Sync1_Isr	8	static
+../SSC/ecatappl.c:490:8:MainInit	16	static
+../SSC/ecatappl.c:527:6:MainLoop	16	static
+../SSC/ecatappl.c:604:6:ECAT_Application	8	static

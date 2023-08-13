@@ -1,0 +1,3 @@
+ecatcoe.c:79:6:COE_Init	1
+ecatcoe.c:96:7:COE_ServiceInd	4
+ecatcoe.c:144:7:COE_ContinueInd	3

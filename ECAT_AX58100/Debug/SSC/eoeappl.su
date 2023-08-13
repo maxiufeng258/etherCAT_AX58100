@@ -1,0 +1,5 @@
+../SSC/eoeappl.c:90:6:EOEAPPL_Init	4	static
+../SSC/eoeappl.c:104:8:EOEAPPL_CalcCheckSum	32	static
+../SSC/eoeappl.c:143:6:EOEAPPL_ReceiveFrameInd	40	static
+../SSC/eoeappl.c:245:8:EOEAPPL_GetSettingsInd	16	static
+../SSC/eoeappl.c:282:8:EOEAPPL_SettingsInd	24	static

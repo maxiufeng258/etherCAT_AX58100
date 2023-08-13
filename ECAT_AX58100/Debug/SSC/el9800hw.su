@@ -1,0 +1,15 @@
+../SSC/el9800hw.c:167:13:GetInterruptRegister	8	static,ignoring_inline_asm
+../SSC/el9800hw.c:195:13:ISR_GetInterruptRegister	8	static
+../SSC/el9800hw.c:222:13:AddressingEsc	24	static
+../SSC/el9800hw.c:253:13:ISR_AddressingEsc	24	static
+../SSC/el9800hw.c:288:7:HW_Init	16	static,ignoring_inline_asm
+../SSC/el9800hw.c:335:6:HW_Release	4	static,ignoring_inline_asm
+../SSC/el9800hw.c:346:8:HW_GetALEventRegister	8	static
+../SSC/el9800hw.c:359:8:HW_GetALEventRegister_Isr	8	static
+../SSC/el9800hw.c:374:6:HW_EscRead	24	static,ignoring_inline_asm
+../SSC/el9800hw.c:425:6:HW_EscReadIsr	24	static
+../SSC/el9800hw.c:459:6:HW_EscWrite	32	static,ignoring_inline_asm
+../SSC/el9800hw.c:500:6:HW_EscWriteIsr	32	static
+../SSC/el9800hw.c:531:6:EscIsr	8	static
+../SSC/el9800hw.c:546:6:Sync0Isr	8	static
+../SSC/el9800hw.c:558:6:Sync1Isr	8	static

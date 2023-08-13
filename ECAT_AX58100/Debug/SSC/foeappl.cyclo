@@ -1,0 +1,6 @@
+foeappl.c:105:8:FOE_Read	5
+foeappl.c:168:8:FOE_Write	2
+foeappl.c:208:8:FOE_Data	4
+foeappl.c:261:8:FOE_Ack	4
+foeappl.c:316:8:FOE_Busy	1
+foeappl.c:331:6:FOE_Error	2

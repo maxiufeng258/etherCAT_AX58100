@@ -1,0 +1,5 @@
+eoeappl.c:90:6:EOEAPPL_Init	1
+eoeappl.c:104:8:EOEAPPL_CalcCheckSum	4
+eoeappl.c:143:6:EOEAPPL_ReceiveFrameInd	13
+eoeappl.c:245:8:EOEAPPL_GetSettingsInd	1
+eoeappl.c:282:8:EOEAPPL_SettingsInd	5

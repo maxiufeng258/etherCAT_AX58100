@@ -1,0 +1,12 @@
+../SSC/objdef.c:167:28:OBJ_GetObjectHandle	24	static
+../SSC/objdef.c:194:8:OBJ_GetObjectLength	24	static
+../SSC/objdef.c:282:6:OBJ_CopyNumberToString	24	static
+../SSC/objdef.c:304:11:OBJ_GetNoOfObjects	32	static
+../SSC/objdef.c:363:11:OBJ_GetObjectList	40	static
+../SSC/objdef.c:466:8:OBJ_GetDesc	64	static
+../SSC/objdef.c:554:37:OBJ_GetEntryDesc	24	static
+../SSC/objdef.c:593:35:OBJ_GetObjDesc	16	static
+../SSC/objdef.c:609:8:OBJ_GetEntryOffset	32	static
+../SSC/objdef.c:722:7:CheckSyncTypeValue	16	static
+../SSC/objdef.c:807:7:OBJ_Read	88	static
+../SSC/objdef.c:1261:7:OBJ_Write	80	static

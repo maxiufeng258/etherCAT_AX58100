@@ -1,0 +1,11 @@
+../SSC/SSC-Device.c:58:9:APPL_AckErrorInd	16	static
+../SSC/SSC-Device.c:77:8:APPL_StartMailboxHandler	4	static
+../SSC/SSC-Device.c:93:8:APPL_StopMailboxHandler	4	static
+../SSC/SSC-Device.c:114:8:APPL_StartInputHandler	16	static
+../SSC/SSC-Device.c:130:8:APPL_StopInputHandler	4	static
+../SSC/SSC-Device.c:148:8:APPL_StartOutputHandler	4	static
+../SSC/SSC-Device.c:164:8:APPL_StopOutputHandler	4	static
+../SSC/SSC-Device.c:178:8:APPL_GenerateMapping	48	static
+../SSC/SSC-Device.c:263:6:APPL_InputMapping	16	static
+../SSC/SSC-Device.c:281:6:APPL_OutputMapping	16	static
+../SSC/SSC-Device.c:299:6:APPL_Application	8	static

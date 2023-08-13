@@ -1,0 +1,5 @@
+../SSC/ecateoe.c:117:6:EOE_Init	4	static
+../SSC/ecateoe.c:133:7:EOE_ServiceInd	40	static
+../SSC/ecateoe.c:406:6:SendFragment	16	static
+../SSC/ecateoe.c:521:6:EOE_ContinueInd	16	static
+../SSC/ecateoe.c:546:7:EOE_SendFrameReq	16	static

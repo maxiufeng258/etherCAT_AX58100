@@ -1,0 +1,3 @@
+ecatfoe.c:68:6:FOE_Init	1
+ecatfoe.c:89:7:FOE_ServiceInd	35
+ecatfoe.c:349:6:FOE_ContinueInd	2

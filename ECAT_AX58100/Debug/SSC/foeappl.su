@@ -1,0 +1,6 @@
+../SSC/foeappl.c:105:8:FOE_Read	48	static
+../SSC/foeappl.c:168:8:FOE_Write	24	static
+../SSC/foeappl.c:208:8:FOE_Data	16	static
+../SSC/foeappl.c:261:8:FOE_Ack	24	static
+../SSC/foeappl.c:316:8:FOE_Busy	24	static
+../SSC/foeappl.c:331:6:FOE_Error	16	static

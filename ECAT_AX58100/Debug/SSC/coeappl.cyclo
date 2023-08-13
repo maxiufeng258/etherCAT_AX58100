@@ -1,0 +1,8 @@
+coeappl.c:442:27:COE_GetObjectDictionary	1
+coeappl.c:453:6:COE_ObjInit	2
+coeappl.c:569:8:COE_AddObjectToDic	9
+coeappl.c:635:6:COE_RemoveDicEntry	6
+coeappl.c:670:6:COE_ClearObjDictionary	2
+coeappl.c:686:8:AddObjectsToObjDictionary	3
+coeappl.c:711:8:COE_ObjDictionaryInit	2
+coeappl.c:738:6:COE_Main	8

@@ -1,0 +1,6 @@
+sdoserv.c:197:14:SdoDownloadSegmentInd	19
+sdoserv.c:388:14:SdoUploadSegmentInd	8
+sdoserv.c:503:6:SdoRes	11
+sdoserv.c:590:7:SDOS_SdoInd	39
+sdoserv.c:912:6:SDOS_SdoRes	8
+sdoserv.c:978:7:SDOS_SdoInfoInd	27

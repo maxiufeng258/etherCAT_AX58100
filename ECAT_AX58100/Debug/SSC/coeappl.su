@@ -1,0 +1,8 @@
+../SSC/coeappl.c:442:27:COE_GetObjectDictionary	4	static
+../SSC/coeappl.c:453:6:COE_ObjInit	16	static
+../SSC/coeappl.c:569:8:COE_AddObjectToDic	24	static
+../SSC/coeappl.c:635:6:COE_RemoveDicEntry	32	static
+../SSC/coeappl.c:670:6:COE_ClearObjDictionary	16	static
+../SSC/coeappl.c:686:8:AddObjectsToObjDictionary	24	static
+../SSC/coeappl.c:711:8:COE_ObjDictionaryInit	16	static
+../SSC/coeappl.c:738:6:COE_Main	32	static
