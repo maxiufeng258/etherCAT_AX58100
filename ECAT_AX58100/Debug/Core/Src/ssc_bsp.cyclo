@@ -6,6 +6,6 @@ ssc_bsp.c:60:6:timer_Esc_IT_Start	1
 ssc_bsp.c:68:6:timer_Esc_IT_Stop	1
 ssc_bsp.c:76:10:timer_Get_Value	1
 ssc_bsp.c:85:6:enable_Irq_Sync0_Sync1	1
-ssc_bsp.c:93:6:disable_Irq_Sync0_Sync1	1
-ssc_bsp.c:103:6:HAL_TIM_PeriodElapsedCallback	3
-ssc_bsp.c:121:6:HAL_GPIO_EXTI_Callback	8
+ssc_bsp.c:94:6:disable_Irq_Sync0_Sync1	1
+ssc_bsp.c:105:6:HAL_TIM_PeriodElapsedCallback	3
+ssc_bsp.c:123:6:HAL_GPIO_EXTI_Callback	8

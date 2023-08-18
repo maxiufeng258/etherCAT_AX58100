@@ -38,7 +38,7 @@ void	timer_Esc_IT_Start	(void);
 void	timer_Esc_IT_Stop	(void);
 #define	START_ECAT_TIMER	timer_Esc_IT_Start()
 /**
- * Enable & Disable ESC INT, SYNC0, SYNC1
+ * Enable & Disable ESC INT, SYNC0, SYNC1, tim
  */
 void	enable_Irq_Sync0_Sync1	(void);
 void	disable_Irq_Sync0_Sync1	(void);

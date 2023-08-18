@@ -85,6 +85,7 @@ uint32_t	timer_Get_Value	(void)
 void	enable_Irq_Sync0_Sync1	(void)
 {
 	al_Event_Int_Enable();
+	__HAL_TIM_ENABLE_IT(&htim6, TIM_IT_UPDATE|TIM_IT_BREAK);
 }
 
 /**
@@ -93,6 +94,7 @@ void	enable_Irq_Sync0_Sync1	(void)
 void	disable_Irq_Sync0_Sync1	(void)
 {
 	al_Event_Int_Disable();
+	__HAL_TIM_DISABLE_IT(&htim6, TIM_IT_UPDATE|TIM_IT_BREAK);
 }
 
 
